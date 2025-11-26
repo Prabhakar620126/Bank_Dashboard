@@ -1,6 +1,11 @@
 # Bank_Dashboard
 A project for analyzing bank performance metrics with interactive charts in PowerBI, Excel , SQL and  Python.
 
+### Raw Data for project :-
+  <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/financial_loan.csv"> CSV data file </a>
+### PROBLEM STATEMENT
+<img width="699" height="140" alt="image" src="https://github.com/user-attachments/assets/e1ae1ae4-4ae9-4775-8640-6db678ff53e3" />
+
 ## TERMINOLOGIES USED IN DATA
 Fields Used in Data
 ### Loan ID:
