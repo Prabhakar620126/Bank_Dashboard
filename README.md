@@ -7,11 +7,12 @@ File	Link
 📄 financial_loan.csv	👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/financial_loan.csv">Download Dataset</a>
 
 🚀 Key Performance Indicators (KPIs)
-KPI Category	Description
-  📝 Total Loan Applications	- MTD Loan Applications
-  - MoM Change Tracking
-  💵 Total Funded Amount	- MTD Funded Amount
-  - MoM Funded Amount Comparison
+KPI Category	| Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+  📝 Total Loan Applications	||- MTD Loan Applications
+                                - MoM Change Tracking
+  💵 Total Funded Amount	||- MTD Funded Amount
+                            - MoM Funded Amount Comparison
   💰 Total Amount Received	- MTD Amount Received
   - MoM Amount Received Analysis
   📈 Average Interest Rate	Measures the overall lending rate for borrowers
