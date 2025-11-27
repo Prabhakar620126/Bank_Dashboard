@@ -74,3 +74,7 @@ File	Link
 | 📜 **SQL Queries**     | 👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx">View SQL File</a>        |
 | 🐍 **Python Notebook** | 👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank%20Loan%20Project.ipynb">View Python Code</a> |
 
+# 🙌 Author  
+**PRABHAKAR KUMAR SHAHI**  
+📧 Email: prabhakar620126@gmail.com 
+🔗 GitHub: https://github.com/Prabhakar620126
