@@ -9,17 +9,17 @@ File	Link
 ## 🚀 Key Performance Indicators (KPIs)
 | KPI Category                   | Description                                                        |
 | ------------------------------ | ------------------------------------------------------------------ |
-| 📝 **Total Loan Applications** | - MTD Loan Applications <br> - MoM Change Tracking                 |
-| 💵 **Total Funded Amount**     | - MTD Funded Amount <br> - MoM Funded Amount Comparison            |
-| 💰 **Total Amount Received**   | - MTD Amount Received <br> - MoM Amount Received Analysis          |
-| 📈 **Average Interest Rate**   | Measures the overall lending rate for borrowers                    |
-| 📉 **Average DTI**             | - Reflects borrower financial health <br> - Helps assess loan risk |
+| 📝 **Total Loan Applications** |  MTD Loan Applications <br> - MoM Change Tracking                 |
+| 💵 **Total Funded Amount**     |  MTD Funded Amount <br> - MoM Funded Amount Comparison            |
+| 💰 **Total Amount Received**   |  MTD Amount Received <br> - MoM Amount Received Analysis          |
+| 📈 **Average Interest Rate**   |  Measures the overall lending rate for borrowers                    |
+| 📉 **Average DTI**             |  Reflects borrower financial health <br> - Helps assess loan risk |
 
 ## ✅ Good Loan vs ❌ Bad Loan Analysis
 | Category          | KPIs                                                                                                                          |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 🟩 **Good Loans** | - Good Loan Application % <br> - Total Good Loan Applications <br> - Good Loan Funded Amount <br> - Good Loan Amount Received |
-| 🟥 **Bad Loans**  | - Bad Loan Application % <br> - Total Bad Loan Applications <br> - Bad Loan Funded Amount <br> - Bad Loan Amount Received     |
+| 🟩 **Good Loans** |  Good Loan Application % <br> - Total Good Loan Applications <br> - Good Loan Funded Amount <br> - Good Loan Amount Received |
+| 🟥 **Bad Loans**  |  Bad Loan Application % <br> - Total Bad Loan Applications <br> - Bad Loan Funded Amount <br> - Bad Loan Amount Received     |
 
 
 
