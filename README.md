@@ -43,6 +43,9 @@ A structured grid showing loan distribution across categories like:
 | 🎯 **Loan Purpose Breakdown (Bar Chart)** | Identifies loan purpose patterns          |
 | 🏡 **Home Ownership (Treemap)**           | Shows housing-based borrower segmentation |
 
+
+📘 Terminologies Used in Data
+
   | Field                        | Meaning                     |
 | ---------------------------- | --------------------------- |
 | 🆔 **Loan ID**               | Unique loan identifier      |
@@ -64,7 +67,14 @@ A structured grid showing loan distribution across categories like:
 | 📈 **Interest Rate**         | Annual borrowing cost       |
 | 💵 **Loan Amount**           | Principal borrowed          |
 
-  🏁 Final Power BI Dashboards
+<p align="left">
+  <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/bank%20power%20bi.pbit" target="_blank" style="text-decoration:none;">
+    <div style="padding:12px 18px; background:#e74c3c; color:white; border-radius:8px; width:fit-content; font-size:18px;">
+      🔥 Open Power BI Dashboard
+    </div>
+  </a>
+</p>
+
   
 📌 Summary Page
 <img width="1282" height="726" src="https://github.com/user-attachments/assets/80483408-1de7-4516-a917-330ba59a368b" />
