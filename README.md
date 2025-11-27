@@ -111,8 +111,8 @@ Fields Used in Data
   
 # Final Result 
   ## DASHBOARD  POWERBI 
-  - <a "<img width="1282" height="726" alt="image" src="https://github.com/user-attachments/assets/80483408-1de7-4516-a917-330ba59a368b" /> summary </a>
-
+#### Summery 
+<img width="1282" height="726" alt="image" src="https://github.com/user-attachments/assets/80483408-1de7-4516-a917-330ba59a368b" /> 
 ### SQL Query:
 * ✅<a herf="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx"> Query </a>
 
