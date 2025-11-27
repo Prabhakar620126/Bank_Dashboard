@@ -1,12 +1,12 @@
-🏦 Bank_Dashboard
+## 🏦 Bank_Dashboard
 
 A project for analyzing bank performance metrics using Power BI, Excel, SQL, and Python.
 
-📂 Raw Dataset
+## 📂 Raw Dataset
 File	Link
 📄 financial_loan.csv	👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/financial_loan.csv">Download Dataset</a>
 
-🚀 Key Performance Indicators (KPIs)
+## 🚀 Key Performance Indicators (KPIs)
 | KPI Category                   | Description                                                        |
 | ------------------------------ | ------------------------------------------------------------------ |
 | 📝 **Total Loan Applications** | - MTD Loan Applications <br> - MoM Change Tracking                 |
@@ -15,26 +15,16 @@ File	Link
 | 📈 **Average Interest Rate**   | Measures the overall lending rate for borrowers                    |
 | 📉 **Average DTI**             | - Reflects borrower financial health <br> - Helps assess loan risk |
 
-
+## ✅ Good Loan vs ❌ Bad Loan Analysis
 | Category          | KPIs                                                                                                                          |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 🟩 **Good Loans** | - Good Loan Application % <br> - Total Good Loan Applications <br> - Good Loan Funded Amount <br> - Good Loan Amount Received |
 | 🟥 **Bad Loans**  | - Bad Loan Application % <br> - Total Bad Loan Applications <br> - Bad Loan Funded Amount <br> - Bad Loan Amount Received     |
 
-🧩 Loan Status Grid
-
-A structured grid showing loan distribution across categories like:
-
-  Current
-
-  Fully Paid
-  
-  Default
-  
-  Late Payments
 
 
-📊 Dashboard 2: Overview – Charts Included
+
+## 📊 Dashboard 2: Overview – Charts Included
   | Chart Type                                | Purpose                                   |
 | ----------------------------------------- | ----------------------------------------- |
 | 📈 **Monthly Trend (Line Chart)**         | Tracks loans issued over months           |
@@ -44,7 +34,7 @@ A structured grid showing loan distribution across categories like:
 | 🏡 **Home Ownership (Treemap)**           | Shows housing-based borrower segmentation |
 
 
-📘 Terminologies Used in Data
+## 📘 Terminologies Used in Data
 
   | Field                        | Meaning                     |
 | ---------------------------- | --------------------------- |
@@ -67,13 +57,9 @@ A structured grid showing loan distribution across categories like:
 | 📈 **Interest Rate**         | Annual borrowing cost       |
 | 💵 **Loan Amount**           | Principal borrowed          |
 
-<p align="left">
-  <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/bank%20power%20bi.pbit" target="_blank" style="text-decoration:none;">
-    <div style="padding:12px 18px; background:#e74c3c; color:white; border-radius:8px; width:fit-content; font-size:18px;">
-      🔥 Open Power BI Dashboard
-    </div>
-  </a>
-</p>
+## 🏁 Final Power BI Dashboards
+[![Power BI Dashboard Button](https://img.shields.io/badge/OPEN%20POWER%20BI%20DASHBOARD-FFC000?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/bank%20power%20bi.pbit)
+
 
   
 📌 Summary Page
@@ -82,7 +68,7 @@ A structured grid showing loan distribution across categories like:
 📌 Overview Page
 <img width="1281" height="717" src="https://github.com/user-attachments/assets/a238d214-af37-42f7-9747-4aef7c261eb6" />
 
-🧠 Code Files
+## 🧠 Code Files
   | File Type              | Link                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 📜 **SQL Queries**     | 👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx">View SQL File</a>        |
