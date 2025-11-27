@@ -1,192 +1,78 @@
-# Bank_Dashboard
-A project for analyzing bank performance metrics with interactive charts in PowerBI, Excel , SQL and  Python.
+🏦 Bank_Dashboard
 
-### Raw Data for project :-
-  <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/financial_loan.csv"> CSV data file </a>
+A project for analyzing bank performance metrics using Power BI, Excel, SQL, and Python.
+
+📂 Raw Dataset
+File	Link
+📄 financial_loan.csv	👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/financial_loan.csv">Download Dataset</a>
 🚀 Key Performance Indicators (KPIs)
-📝 Total Loan Applications
-
--Month-to-Date (MTD) Loan Applications
-
--Month-over-Month (MoM) change tracking
-
-💵 Total Funded Amount
-
--MTD Funded Amount
-
--MoM Funded Amount comparison
-
-💰 Total Amount Received
-
--MTD Total Amount Received
-
--MoM Total Amount Received analysis
-
-📈 Average Interest Rate
-
--Measures the overall lending cost for borrowers
-
-📉 Average DTI (Debt-to-Income Ratio)
-
--Indicates borrower financial health
-
--Helps assess the risk of approving new loans
-
-✅ Good Loan vs ❌ Bad Loan KPIs
-🟩 Good Loan Metrics
-
--Good Loan Application Percentage
-
--Total Good Loan Applications
-
--Good Loan Funded Amount
-
--Good Loan Total Amount Received
-
-🟥 Bad Loan Metrics
-
--Bad Loan Application Percentage
-
--Total Bad Loan Applications
-
--Bad Loan Funded Amount
-
--Bad Loan Total Amount Received
-
-🧩 Loan Status Grid View
-
-A tabular view showing the distribution of loans across different status categories
-(e.g., Current, Fully Paid, Default, Late Payments).
-
-📊 Dashboard 2: Overview
-
-A high-level dashboard summarizing the key metrics, trends, and loan performance insights—helping stakeholders quickly assess portfolio health.  
-🚀 CHARTS
-  -Monthly Trends by Issue Date (Line Chart): 
-  -Regional Analysis by State (Filled Map): 
-  -Employee Length Analysis (Bar Chart): 
-  -Loan Purpose Breakdown (Bar Chart): 
-  -Home Ownership Analysis (Tree Map): 
-
-## TERMINOLOGIES USED IN DATA
-🆔 Loan ID
-
--Unique identifier for each loan.
-
--Helps banks track and manage loans efficiently.
-
-📍 Address State
-
--Shows borrower’s state/location.
-
--Used to analyze regional loan demand trends.
-
-👔 Employee Length
-
--Number of years the borrower has been employed.
-
--Indicates job stability and repayment ability.
-
-💼 Employee Title
-
--Borrower’s job title or occupation.
-
--Helps verify income sources and employment details.
-
-🏷️ Grade
-
--Credit risk category of a loan.
-
--Higher grades = lower risk and usually lower interest rates.
-
-🔢 Sub-Grade
-
--Detailed risk classification under each grade.
-
--Provides finer granularity for risk assessment.
-
-🏡 Home Ownership
-
--Borrower’s housing status (rent, mortgage, own).
-
--Indicates financial stability and potential collateral.
-
-📅 Issue Date
-
--Date when the loan was originated.
-
--Used for tracking loan age, interest accrual, and maturity.
-
-📊 Last Credit Pull Date
-
--Last date borrower’s credit report was checked.
-
--Helps banks track updated creditworthiness.
-
-📘 Loan Status
-
--Current condition of the loan (current, default, fully paid).
-
--Used to monitor loan health and categorize risk.
-
-🎯 Purpose
-
--Reason for taking the loan (e.g., education, consolidation).
-
--Helps segment borrowers and customize loan products.
-
-⏳ Term
-
--Total duration of the loan in months.
-
--Determines repayment structure and interest calculations.
-
-✔️ Verification Status
-
--Indicates whether borrower’s financials were verified.
-
--Helps banks assess accuracy and credibility of applications.
-
-💰 Annual Income
-
--Borrower’s yearly earnings.
-
--Used to check eligibility and calculate debt ratios.
-
-📉 DTI (Debt-to-Income Ratio)
-
--Borrower’s debt level relative to income.
-
--Shows ability to take on more credit and repay.
-
-🧾 Instalment
-
--Fixed monthly repayment amount.
-
--Helps plan amortization schedules and payment capacity.
-
-📈 Interest Rate
-
--Annual borrowing cost in percentage.
-
--Determines overall loan expense.
-
-💵 Loan Amount
-
--Principal amount borrowed.
-
-
-# Final Result 
-  ## DASHBOARD  POWERBI 
-#### Summery 
-
-<img width="1282" height="726" alt="image" src="https://github.com/user-attachments/assets/80483408-1de7-4516-a917-330ba59a368b" /> 
-
-#### Overview 
-
-<img width="1281" height="717" alt="image" src="https://github.com/user-attachments/assets/a238d214-af37-42f7-9747-4aef7c261eb6" />
-
-### SQL Query:
-* ✅  SQL Query File | <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx"> Query </a>
-
-* ✅Python code  | <a hreff="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank%20Loan%20Project.ipynb"> python </a>
+KPI Category	Description
+📝 Total Loan Applications	- MTD Loan Applications
+- MoM Change Tracking
+💵 Total Funded Amount	- MTD Funded Amount
+- MoM Funded Amount Comparison
+💰 Total Amount Received	- MTD Amount Received
+- MoM Amount Received Analysis
+📈 Average Interest Rate	Measures the overall lending rate for borrowers
+📉 Average DTI	- Reflects borrower financial health
+- Helps assess loan risk
+✅ Good Loan vs ❌ Bad Loan Analysis
+Category	KPIs
+🟩 Good Loans	- Good Loan Application %
+- Total Good Loan Applications
+- Good Loan Funded Amount
+- Good Loan Amount Received
+🟥 Bad Loans	- Bad Loan Application %
+- Total Bad Loan Applications
+- Bad Loan Funded Amount
+- Bad Loan Amount Received
+🧩 Loan Status Grid
+
+A structured grid showing loan distribution across categories like:
+
+Current
+
+Fully Paid
+
+Default
+
+Late Payments
+
+📊 Dashboard 2: Overview – Charts Included
+Chart Type	Purpose
+📈 Monthly Trend (Line Chart)	Tracks loans issued over months
+🗺️ Regional Analysis (Filled Map)	Shows loan distribution by state
+📊 Employee Length (Bar Chart)	Employment stability insights
+🎯 Loan Purpose Breakdown (Bar Chart)	Identifies loan purpose patterns
+🏡 Home Ownership (Treemap)	Shows housing-based borrower segmentation
+📘 Terminologies Used in Data
+Field	Meaning
+🆔 Loan ID	Unique loan identifier
+📍 Address State	Borrower’s location
+👔 Employee Length	Work experience in years
+💼 Employee Title	Borrower job role
+🏷️ Grade	Credit risk category
+🔢 Sub-Grade	Detailed risk segmentation
+🏡 Home Ownership	Housing status
+📅 Issue Date	Loan origination date
+📊 Last Credit Pull Date	Last credit report check
+📘 Loan Status	Current loan state
+🎯 Purpose	Reason for loan
+⏳ Term	Loan duration in months
+✔️ Verification Status	Financial verification flag
+💰 Annual Income	Borrower yearly income
+📉 DTI	Debt-to-income ratio
+🧾 Instalment	Monthly repayment amount
+📈 Interest Rate	Annual borrowing cost
+💵 Loan Amount	Principal borrowed
+🏁 Final Power BI Dashboards
+📌 Summary Page
+<img width="1282" height="726" src="https://github.com/user-attachments/assets/80483408-1de7-4516-a917-330ba59a368b" />
+📌 Overview Page
+<img width="1281" height="717" src="https://github.com/user-attachments/assets/a238d214-af37-42f7-9747-4aef7c261eb6" />
+🧠 Code Files
+File Type	Link
+📜 SQL Queries	👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx">View SQL File</a>
+🐍 Python Notebook	👉 <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank%20Loan%20Project.ipynb">View Python Code</a>
+
+If you want, I can also:
