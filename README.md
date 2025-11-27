@@ -111,11 +111,8 @@ Fields Used in Data
   
 # Final Result 
   ## DASHBOARD  POWERBI 
-  - <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/bank%20power%20bi.pbit"> Dashboard</a>
-  - <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png"> Summary Dashboard </a>
-  - <a href="[https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)"> Overview Dashboard </a>
-  <a href="[[https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)"> Details Dashboard </a>
-  
+  - <a "<img width="1282" height="726" alt="image" src="https://github.com/user-attachments/assets/80483408-1de7-4516-a917-330ba59a368b" /> summary </a>
+
 ### SQL Query:
 * ✅<a herf="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx"> Query </a>
 
