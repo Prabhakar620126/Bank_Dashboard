@@ -111,13 +111,13 @@ Fields Used in Data
   
 # Final Result 
   ## DASHBOARD  POWERBI 
-  <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/bank%20power%20bi.pbit"> Dashboard</a>
-  <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png"> Summary Dashboard </a>
-  <a href="[https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)"> Overview Dashboard </a>
+  - <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/bank%20power%20bi.pbit"> Dashboard</a>
+  - <a href="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png"> Summary Dashboard </a>
+  - <a href="[https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)"> Overview Dashboard </a>
   <a href="[[https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Summery_dashboard.png](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)](https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Overview_dashboard.png)"> Details Dashboard </a>
   
 ### SQL Query:
-<a herf="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx"> Query </a>
+* ✅<a herf="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank_DashBoard_sql.docx"> Query </a>
 
 ### Python code 
-<a herf="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank%20Loan%20Project.ipynb"> python </a>
+* ✅<a herf="https://github.com/Prabhakar620126/Bank_Dashboard/blob/main/Bank%20Loan%20Project.ipynb"> python </a>
